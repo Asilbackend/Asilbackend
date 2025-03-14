@@ -23,7 +23,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  
+![Telegram bot] 🤖 
 ![JPA](https://img.shields.io/badge/JPA-00599C?style=for-the-badge&logo=hibernate&logoColor=white)  
 
 **Dasturlash tillari & Texnologiyalar**  
