@@ -3,13 +3,13 @@
 
 ---
 
-### 🌐 **Mening real loyihalarim**:
-- 🔗 [Special English Courses](https://specialenglishcourses.com) (Website)
-- 🤖 [DonZikiBot](https://t.me/DonZikibot) (Telegram Bot)
+## 🌐 **Mening real loyihalarim**  
+- 🔗 [Special English Courses](https://specialenglishcourses.com) – Ingliz tilini o‘rganish platformasi  
+- 🤖 [DonZikiBot](https://t.me/DonZikibot) – Telegram bot  
 
 ---
 
-## 🙍‍♂ **Shaxsiy Ma'lumotlar**
+## 🙍‍♂ **Shaxsiy Ma'lumotlar**  
 - **👤 FISH:** Oʻktamov Asilbek Anvarovich  
 - **🕑 Yosh:** 21  
 - **👨‍💻 Mutaxassislik:** Java Backend Dasturchi  
@@ -18,25 +18,25 @@
 ---
 
 ## 🚀 **Ko‘nikmalarim**  
-### 🔹 Backend  
+### 🔹 **Backend**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Telegram bot] 🤖 
+![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  
 ![JPA](https://img.shields.io/badge/JPA-00599C?style=for-the-badge&logo=hibernate&logoColor=white)  
 
-**Dasturlash tillari & Texnologiyalar**  
+✅ **Dasturlash tillari & Texnologiyalar**  
 ✔️ **Java SE, OOP, Jakarta EE**  
 ✔️ **Spring Boot, Spring Security**  
 ✔️ **Docker, Docker Compose**  
-✔️ **Rest API, OpenFeign, Web Socket**  
+✔️ **REST API, OpenFeign, Web Socket**  
 ✔️ **DB Migration (Flyway, Liquibase)**  
 ✔️ **SQL, PL/pgSQL, PostgreSQL, MySQL, MongoDB**  
 ✔️ **Apache, Maven, Gradle**  
-✔️ **GitHub, Git**  
+✔️ **Git, GitHub**  
 
-### 🔹 Frontend
+### 🔹 **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
@@ -45,13 +45,13 @@
 
 ---
 
-## 🔍 **Hozirda o‘rganayotgan texnologiyalarim**
-- 🔥 **Flutter** (Mobil ilovalar)
-- ⚛ **React.js** (Frontend UI)
+## 📚 **Hozirda o‘rganayotgan texnologiyalarim**  
+- 🔥 **Flutter** – Mobil ilovalar ishlab chiqish  
+- ⚛ **React.js** – Frontend UI ishlab chiqish  
 
 ---
 
-## 📊 **Mening GitHub Statistikam**
+## 📊 **Mening GitHub Statistikam**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Asilbackend&show_icons=true&theme=tokyonight" width="450px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asilbackend&theme=tokyonight" width="450px">
@@ -60,12 +60,12 @@
 ---
 
 ## 🌍 **Tillar**  
-- 🇬🇧 **Ingliz tili**: Intermediate  
-- 🇷🇺 **Rus tili**: Beginner  
+- 🇬🇧 **Ingliz tili** – Intermediate  
+- 🇷🇺 **Rus tili** – Beginner  
 
 ---
 
-## 📫 **Menga bog‘laning**
+## 📫 **Menga bog‘laning**  
 📞 **Telefon**: +998919207150  
 📩 **Telegram**: [@mathical_04](https://t.me/mathical_04)  
 📂 **GitHub**: [Asilbackend](https://github.com/Asilbackend)  
