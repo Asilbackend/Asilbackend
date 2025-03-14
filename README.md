@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="#uzbek">🇺🇿 O‘zbek</a> |
-  <a href="#english">🇬🇧 English</a>
+  <a href="#english">en English</a>
 </div>
 
 ---
