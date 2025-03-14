@@ -3,94 +3,92 @@
 
 ---
 
-## 🌍 Tilni tanlang | Choose Language
-
-- 🇺🇿 [O‘zbek tili](#uzbek)
-- 🇬🇧 [English](#english)
+<div align="center">
+  <a href="#uzbek">🇺🇿 O‘zbek</a> |
+  <a href="#english">🇬🇧 English</a>
+</div>
 
 ---
 
-## <a name="uzbek"></a>🇺🇿 O‘zbek tili
+## 🚀 Mening Loyihalarim | My Projects
 
-### 🌐 **Mening real loyihalarim**  
-- 🔗 [Special English Courses](https://specialenglishcourses.com) – Ingliz tili o'quv markazi websayt  
-- 🤖 [DonZikiBot](https://t.me/DonZikibot) – Telegram bot  
+<table>
+  <tr>
+    <td align="center">🔗 <a href="https://specialenglishcourses.com">Special English Courses</a><br><small>📌 Ingliz tili o'quv markazi</small></td>
+    <td align="center">🤖 <a href="https://t.me/DonZikibot">DonZikiBot</a><br><small>📌 Telegram bot</small></td>
+  </tr>
+</table>
 
-### 🙍‍♂ **Shaxsiy Ma'lumotlar**  
-- **👤 FISH:** Oʻktamov Asilbek Anvarovich  
-- **🕑 Yosh:** 21  
-- **👨‍💻 Mutaxassislik:** Java Backend Dasturchi  
-- **📍 Joylashuv:** Toshkent, Oʻzbekiston  
+---
 
-### 🚀 **Ko‘nikmalarim**  
-#### 🔹 **Backend**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  
+## 🏆 Men Haqimda | About Me
 
-#### 🔹 **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+<table>
+  <tr>
+    <td>👤 <strong>Ism:</strong> Oʻktamov Asilbek Anvarovich</td>
+    <td>🕑 <strong>Yosh:</strong> 21</td>
+  </tr>
+  <tr>
+    <td>👨‍💻 <strong>Mutaxassislik:</strong> Java Backend Dasturchi</td>
+    <td>📍 <strong>Joylashuv:</strong> Toshkent, Oʻzbekiston</td>
+  </tr>
+</table>
 
-### 📚 **Hozirda o‘rganayotgan texnologiyalarim**  
-- 🔥 **Flutter** – Mobil ilovalar ishlab chiqish  
-- ⚛ **React.js** – Frontend UI ishlab chiqish  
+---
 
-### 📊 **Mening GitHub Statistikam**  
+## 🔥 Ko‘nikmalarim | My Skills
+
+<table>
+  <tr>
+    <td align="center">🛠 <strong>Backend</strong></td>
+    <td align="center">🎨 <strong>Frontend</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 Hozirda O‘rganayotgan Texnologiyalar | Currently Learning
+
+<table>
+  <tr>
+    <td align="center">🔥 Flutter<br><small>Mobil ilovalar</small></td>
+    <td align="center">⚛ React.js<br><small>Frontend UI</small></td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Statistikasi | GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Asilbackend&show_icons=true&theme=tokyonight" width="450px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asilbackend&theme=tokyonight" width="450px">
 </p>
 
-### 📫 **Menga bog‘laning**  
-📞 **Telefon**: +998919207150  
-📩 **Telegram**: [@mathical_04](https://t.me/mathical_04)  
-📂 **GitHub**: [Asilbackend](https://github.com/Asilbackend)  
-
 ---
 
-## <a name="english"></a>🇬🇧 English
+## 📫 Menga Bog‘laning | Contact Me
 
-### 🌐 **My Projects**  
-- 🔗 [Special English Courses](https://specialenglishcourses.com) – English study center website  
-- 🤖 [DonZikiBot](https://t.me/DonZikibot) – Telegram bot  
-
-### 🙍‍♂ **Personal Information**  
-- **👤 Full Name:** Asilbek Anvarovich Oʻktamov  
-- **🕑 Age:** 21  
-- **👨‍💻 Profession:** Java Backend Developer  
-- **📍 Location:** Tashkent, Uzbekistan  
-
-### 🚀 **Skills**  
-#### 🔹 **Backend**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  
-
-#### 🔹 **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-### 📚 **Currently Learning**  
-- 🔥 **Flutter** – Mobile App Development  
-- ⚛ **React.js** – Frontend UI Development  
-
-### 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asilbackend&show_icons=true&theme=tokyonight" width="450px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asilbackend&theme=tokyonight" width="450px">
+  <a href="tel:+998919207150">📞 Telefon</a> |
+  <a href="https://t.me/mathical_04">📩 Telegram</a> |
+  <a href="https://github.com/Asilbackend">📂 GitHub</a>
 </p>
 
-### 📫 **Contact Me**  
-📞 **Phone**: +998919207150  
-📩 **Telegram**: [@mathical_04](https://t.me/mathical_04)  
-📂 **GitHub**: [Asilbackend](https://github.com/Asilbackend)  
-
 ---
-🎯 **"Keep learning, and success will follow!"** 🚀
+
+<p align="center"><strong>🎯 "Keep learning, and success will follow!" 🚀</strong></p>
