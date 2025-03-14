@@ -13,7 +13,7 @@
 ## <a name="uzbek"></a>🇺🇿 O‘zbek tili
 
 ### 🌐 **Mening real loyihalarim**  
-- 🔗 [Special English Courses](https://specialenglishcourses.com) – Ingliz tilini o‘rganish platformasi  
+- 🔗 [Special English Courses](https://specialenglishcourses.com) – Ingliz tili o'quv markazi websayt  
 - 🤖 [DonZikiBot](https://t.me/DonZikibot) – Telegram bot  
 
 ### 🙍‍♂ **Shaxsiy Ma'lumotlar**  
@@ -55,7 +55,7 @@
 ## <a name="english"></a>🇬🇧 English
 
 ### 🌐 **My Projects**  
-- 🔗 [Special English Courses](https://specialenglishcourses.com) – English learning platform  
+- 🔗 [Special English Courses](https://specialenglishcourses.com) – English study center website  
 - 🤖 [DonZikiBot](https://t.me/DonZikibot) – Telegram bot  
 
 ### 🙍‍♂ **Personal Information**  
